@@ -5,9 +5,6 @@
 - 📫 How to reach me ...
 - 👨🏻‍💻 Website https://suroy.cn
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zsuroy/README&type=Date)](https://star-history.com/#zsuroy/README&Date)
-
-
 <!---
 zsuroy/zsuroy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
